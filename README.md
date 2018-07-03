@@ -128,6 +128,7 @@
   brew cask install dropbox \
   google-backup-and-sync \
   google-chrome \
+  google-drive-file-stream \
   numi
   ```
 - Media
