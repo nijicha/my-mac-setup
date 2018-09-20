@@ -162,7 +162,6 @@
 
   ```bash
   brew cask install epubquicklook \
-  lepton \
   postman \
   qlcolorcode \
   qlimagesize \
