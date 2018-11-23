@@ -11,6 +11,7 @@
 - Sign-in Internet Accounts
 - Enable all iCloud sync
 - Personal Setting
+  - Dock Size, Magnification, Auto Hide
   - Language
   - Keyboard
   - Short Cut Keys
