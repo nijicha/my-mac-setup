@@ -156,6 +156,7 @@
   cleanmymac \
   istat-menus \
   rubymine \
+  sketch \
   spotify
   ```
 
