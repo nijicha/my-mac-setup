@@ -163,18 +163,19 @@
 - Development (Optional)
 
   ```bash
-  brew cask install epubquicklook \
+  brew cask install bitbar \
   postman \
+  psequel \
+  sequel-pro \
+  visual-studio-code \
+  epubquicklook \
   qlcolorcode \
   qlimagesize \
   qlprettypatch \
   qlstephen \
   quicklook-csv \
   quicklook-json \
-  qlmarkdown \
-  sequel-pro \
-  servepane \
-  visual-studio-code
+  qlmarkdown
   ```
 
   ```bash
