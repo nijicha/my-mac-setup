@@ -1,5 +1,7 @@
 # my-mac-setup
 
+## FIXME: Update and Add more installation for Python Development
+
 ## Prerequisites
 
 - [Homebrew](https://brew.sh/) should be installed (Command line tools for Xcode are included).
